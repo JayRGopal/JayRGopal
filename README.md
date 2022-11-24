@@ -16,13 +16,12 @@ Let's connect! Feel free to email me at Jay_Gopal@Brown.edu, or [connnect with m
 🧰 Toolbox
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
-<img src="https://muratbeken.com.tr/wp-content/uploads/2019/12/matlab.jpg" alt="MATLAB Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/f/854/files/2021/02/BlueMatLab-edited.jpg" alt="MATLAB Logo" width="75" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter Logo" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/127001/sql-file-format.svg" alt="SQL Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="HTML Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css-4.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
 
 
 

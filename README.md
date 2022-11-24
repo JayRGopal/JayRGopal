@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Jay Gopal
+# Hi there 👋! I'm Jay Gopal
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)

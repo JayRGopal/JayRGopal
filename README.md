@@ -9,6 +9,12 @@
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
+                                                                                              
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with the diverse and ever-expanding <strong>toolbox</strong> (see details below).
 

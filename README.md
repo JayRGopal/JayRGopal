@@ -3,7 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
 
-![](GitHub Banner.png)
+![](GitHubBanner.png)
 
 Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with a diverse and ever-expanding <strong>toolbox</strong> (see details below).
 

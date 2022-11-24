@@ -3,6 +3,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
 
+![](GitHub Banner.png)
 
 Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with a diverse and ever-expanding <strong>toolbox</strong> (see details below).
 
@@ -22,18 +23,3 @@ Let's connect! Feel free to email me at Jay_Gopal@Brown.edu, or [connnect with m
 
 ---
 
-
-<!--
-**JayRGopal/JayRGopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

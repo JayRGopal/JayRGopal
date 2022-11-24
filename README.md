@@ -2,6 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
+
 <p align=”center”>
 <a href=”https://www.linkedin.com/in/jay-gopal/”>
 <img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">

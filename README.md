@@ -1,8 +1,7 @@
 ### Hi there 👋! I'm Jay Gopal
 
-![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/JayRGopal?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
 
 Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with the diverse and ever-expanding <strong>toolbox</strong> (see details below).
 

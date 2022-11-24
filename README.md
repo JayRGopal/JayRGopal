@@ -4,24 +4,23 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
 
 
-<p align=”center”>
-<a href=”https://www.linkedin.com/in/jay-gopal/”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-                                                                                              
-<p align=”center”>
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-</p>
-
-Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with the diverse and ever-expanding <strong>toolbox</strong> (see details below).
+Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with a diverse and ever-expanding <strong>toolbox</strong> (see details below).
 
 Research interests: explainable AI (attribution-based and counterfactual methods for black-box & white-box models), machine learning for medicine (diagnosis, robotic surgery, and more), and computational neuroscience (comparing and contrasting deep neural networks with human vision).
 
+Let's connect! Feel free to email me at Jay_Gopal@Brown.edu, or [connnect with me on LinkedIn!](https://www.linkedin.com/in/jay-gopal/)
 
 
+---
+
+🧰 Toolbox
+
+
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/>
+
+
+
+---
 
 
 <!--

@@ -2,7 +2,11 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/JayRGopal?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/JayRGopal?style=social)
-![LinkedIn Follow](https://img.shields.io/linkedin/follow/JayRGopal?style=social)
+<p align=”center”>
+<a href=”https://www.linkedin.com/in/jay-gopal/”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
 
 Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with the diverse and ever-expanding <strong>toolbox</strong> (see details below).
 

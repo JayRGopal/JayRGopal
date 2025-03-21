@@ -5,7 +5,7 @@
 
 ![](GitHubBanner.png)
 
-Applying artificial intelligence and computer vision to transform healthcare. Experienced software engineer with a diverse and ever-expanding <strong>toolbox</strong> (see details below).
+Applying artificial intelligence and computer vision to transform healthcare. Aspiring physician. Experienced software engineer with a diverse and ever-expanding <strong>toolbox</strong> (see details below).
 
 Research interests: explainable AI (attribution-based and counterfactual methods for black-box & white-box models), machine learning for medicine (diagnosis, robotic surgery, and more), and computational neuroscience (comparing and contrasting deep neural networks with human vision, EEG analysis, and signal processing).
 
